@@ -5,56 +5,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sunayana's Portfolio</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    body {
-      background-color: #f7f7f7;
-      color: #333;
-      line-height: 1.6;
-    }
-    header {
-      background: #6a0dad;
-      color: #fff;
-      padding: 2rem 0;
-      text-align: center;
-    }
-    nav a {
-      margin: 0 15px;
-      color: #fff;
-      text-decoration: none;
-    }
-    section {
-      max-width: 1000px;
-      margin: auto;
-      padding: 2rem;
-    }
-    h2 {
-      margin-bottom: 1rem;
-      color: #6a0dad;
-    }
-    .card {
-      background: white;
-      padding: 1.5rem;
-      margin-bottom: 1rem;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    }
-    footer {
-      background: #333;
-      color: #fff;
-      text-align: center;
-      padding: 1rem 0;
-      margin-top: 2rem;
-    }
-    a {
-      color: #6a0dad;
-    }
-  </style>
 </head>
 <body>
   <header>
