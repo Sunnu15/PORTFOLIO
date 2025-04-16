@@ -1,5 +1,3 @@
-# PORTFOLIO
-SUNAYANA KESARA's portfolio
 
 <!DOCTYPE html>
 <html lang="en">
